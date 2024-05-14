@@ -1,0 +1,4 @@
+numpy==1.23.0
+tqdm==4.63.1
+torch==1.10.2
+#Hey aiman here, some new versions of these might not work so just install the older versions if there is any issues!
